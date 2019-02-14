@@ -12,6 +12,6 @@
         "react"
     ],
     "plugins": [
-        "syntax-dinamic-import"
+        "syntax-dynamic-import"
     ]
 }
